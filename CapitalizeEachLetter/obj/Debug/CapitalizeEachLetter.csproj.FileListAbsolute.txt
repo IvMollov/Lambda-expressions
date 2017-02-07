@@ -1,0 +1,1 @@
+D:\Projects\Lambda expression\CapitalizeEachLetter\bin\Debug\CapitalizeEachLetter.exe.config

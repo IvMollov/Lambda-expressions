@@ -1,0 +1,6 @@
+D:\Projects\Lambda expression\NumbersDivisibleBy7And3\bin\Debug\NumbersDivisibleBy7And3.exe.config
+D:\Projects\Lambda expression\NumbersDivisibleBy7And3\bin\Debug\NumbersDivisibleBy7And3.exe
+D:\Projects\Lambda expression\NumbersDivisibleBy7And3\bin\Debug\NumbersDivisibleBy7And3.pdb
+D:\Projects\Lambda expression\NumbersDivisibleBy7And3\obj\Debug\NumbersDivisibleBy7And3.exe
+D:\Projects\Lambda expression\NumbersDivisibleBy7And3\obj\Debug\NumbersDivisibleBy7And3.pdb
+D:\Projects\Lambda expression\NumbersDivisibleBy7And3\obj\Debug\NumbersDivisibleBy7And3.csprojResolveAssemblyReference.cache

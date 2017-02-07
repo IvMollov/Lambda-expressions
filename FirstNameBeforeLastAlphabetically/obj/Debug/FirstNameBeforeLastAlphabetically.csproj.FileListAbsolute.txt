@@ -1,0 +1,6 @@
+D:\Projects\Lambda expression\FirstNameBeforeLastAlphabetically\bin\Debug\FirstNameBeforeLastAlphabetically.exe.config
+D:\Projects\Lambda expression\FirstNameBeforeLastAlphabetically\bin\Debug\FirstNameBeforeLastAlphabetically.exe
+D:\Projects\Lambda expression\FirstNameBeforeLastAlphabetically\bin\Debug\FirstNameBeforeLastAlphabetically.pdb
+D:\Projects\Lambda expression\FirstNameBeforeLastAlphabetically\obj\Debug\FirstNameBeforeLastAlphabetically.csprojResolveAssemblyReference.cache
+D:\Projects\Lambda expression\FirstNameBeforeLastAlphabetically\obj\Debug\FirstNameBeforeLastAlphabetically.exe
+D:\Projects\Lambda expression\FirstNameBeforeLastAlphabetically\obj\Debug\FirstNameBeforeLastAlphabetically.pdb

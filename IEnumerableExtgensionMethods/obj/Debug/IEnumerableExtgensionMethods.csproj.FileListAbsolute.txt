@@ -1,0 +1,6 @@
+D:\Projects\Lambda expression\IEnumerableExtgensionMethods\bin\Debug\IEnumerableExtgensionMethods.exe.config
+D:\Projects\Lambda expression\IEnumerableExtgensionMethods\bin\Debug\IEnumerableExtgensionMethods.exe
+D:\Projects\Lambda expression\IEnumerableExtgensionMethods\bin\Debug\IEnumerableExtgensionMethods.pdb
+D:\Projects\Lambda expression\IEnumerableExtgensionMethods\obj\Debug\IEnumerableExtgensionMethods.csprojResolveAssemblyReference.cache
+D:\Projects\Lambda expression\IEnumerableExtgensionMethods\obj\Debug\IEnumerableExtgensionMethods.exe
+D:\Projects\Lambda expression\IEnumerableExtgensionMethods\obj\Debug\IEnumerableExtgensionMethods.pdb

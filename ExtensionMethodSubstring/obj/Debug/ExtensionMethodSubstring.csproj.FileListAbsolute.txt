@@ -1,0 +1,5 @@
+D:\Projects\Lambda expression\ExtensionMethodSubstring\bin\Debug\ExtensionMethodSubstring.exe.config
+D:\Projects\Lambda expression\ExtensionMethodSubstring\bin\Debug\ExtensionMethodSubstring.exe
+D:\Projects\Lambda expression\ExtensionMethodSubstring\bin\Debug\ExtensionMethodSubstring.pdb
+D:\Projects\Lambda expression\ExtensionMethodSubstring\obj\Debug\ExtensionMethodSubstring.exe
+D:\Projects\Lambda expression\ExtensionMethodSubstring\obj\Debug\ExtensionMethodSubstring.pdb
