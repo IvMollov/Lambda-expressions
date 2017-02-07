@@ -1,1 +1,7 @@
 D:\Projects\Lambda expression\CapitalizeEachLetter\bin\Debug\CapitalizeEachLetter.exe.config
+D:\Projects\Lambda expression\Lambda-expressions\CapitalizeEachLetter\bin\Debug\CapitalizeEachLetter.exe.config
+D:\Projects\Lambda expression\Lambda-expressions\CapitalizeEachLetter\bin\Debug\CapitalizeEachLetter.exe
+D:\Projects\Lambda expression\Lambda-expressions\CapitalizeEachLetter\bin\Debug\CapitalizeEachLetter.pdb
+D:\Projects\Lambda expression\Lambda-expressions\CapitalizeEachLetter\obj\Debug\CapitalizeEachLetter.csprojResolveAssemblyReference.cache
+D:\Projects\Lambda expression\Lambda-expressions\CapitalizeEachLetter\obj\Debug\CapitalizeEachLetter.exe
+D:\Projects\Lambda expression\Lambda-expressions\CapitalizeEachLetter\obj\Debug\CapitalizeEachLetter.pdb
