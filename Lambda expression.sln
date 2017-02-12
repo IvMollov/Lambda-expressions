@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "Lambda\Lambda.csproj", "{0308F9A6-37A5-494B-9422-AC19CE79CF20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "Lambda\LINQ.csproj", "{0308F9A6-37A5-494B-9422-AC19CE79CF20}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumLengthofStirng", "MaximumLengthofStirng\MaximumLengthofStirng.csproj", "{518D2929-6A7E-466E-8F61-ED519801E277}"
 EndProject
