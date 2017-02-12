@@ -1,0 +1,6 @@
+D:\Projects\Lambda expression\Lambda-expressions\Lambda\bin\Debug\Lambda.exe.config
+D:\Projects\Lambda expression\Lambda-expressions\Lambda\bin\Debug\Lambda.exe
+D:\Projects\Lambda expression\Lambda-expressions\Lambda\bin\Debug\Lambda.pdb
+D:\Projects\Lambda expression\Lambda-expressions\Lambda\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+D:\Projects\Lambda expression\Lambda-expressions\Lambda\obj\Debug\Lambda.exe
+D:\Projects\Lambda expression\Lambda-expressions\Lambda\obj\Debug\Lambda.pdb
